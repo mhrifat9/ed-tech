@@ -1,3 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+.nav-item a{
+    margin-right: 30px;
+}
