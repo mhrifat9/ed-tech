@@ -21,3 +21,6 @@ body{
     text-decoration: none;
     font-weight: bold;
   }
+  .fa-star{
+    color: gold;
+  }
